@@ -1,3 +1,4 @@
+require 'jquery/rails'
 require 'jquery/console/rails/engine'
 require 'jquery/console/rails/version'
 
